@@ -1,12 +1,12 @@
 <h1 align="center">Hola, soy Melani Depetris 👋👩‍💻</h1>
 
-<h3 align="center">Soy una apasionada Fullstack, Argentina</h3>
+<h3 align="center">Soy una apasionada Fullstack en constante desarrollo. Curse la carrera de Full Stack en Henry. </h3>
 
 ## 🔗 Redes
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-depetris/)
 
-<h2 align="left"> 🛠 Languages and Tools: </h2>
+<h2 align="left"> 🛠 Lenguajes y Herramientas: </h2>
 
 <h3 align="left">Frontend</h3>
 <p align="left"> 
@@ -48,7 +48,7 @@
 
 <h2 align="left">Contactame:</h2>
 
-- 📫 **depetrismelanie@gmail.com**
+📫 **depetrismelanie@gmail.com**
 
 <!--
 **Melani-Depetris/Melani-Depetris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
