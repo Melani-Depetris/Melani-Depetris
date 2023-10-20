@@ -2,7 +2,8 @@
 
 <h3 align="center">Soy una apasionada Fullstack, Argentina</h3>
 
- 🔗 Redes
+ 
+ <h2 align="left"> 🔗 Redes</h2>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-depetris/)
 
 <h2 align="left"> 🛠 Languages and Tools: </h2>
@@ -45,7 +46,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melani-depetris&show_icons=true&locale=en" alt="melani-depetris" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melani-depetris&" alt="melani-depetris" /></p>
 
-##<h3 align="left">Contactame:</h3>
+<h2 align="left">Contactame:</h2>
 
 - 📫 **depetrismelanie@gmail.com**
 
