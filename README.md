@@ -3,8 +3,9 @@
 <h3 align="center">Soy una apasionada Fullstack, Argentina</h3>
 
  
- <h2 align="left"> 🔗 Redes</h2>
+ ##<h2 align="left"> 🔗 Redes</h2>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-depetris/)
+
 
 <h2 align="left"> 🛠 Languages and Tools: </h2>
 
