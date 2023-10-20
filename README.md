@@ -1,12 +1,13 @@
-### <h1 align="center">Hola, soy Melani Depetris 👋👩‍💻</h1>
-
-<h3 align="left">Contactame:</h3>
-📫 **depetrismelanie@gmail.com**
-
-## 🔗 Redes
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-depetris/)
+<h1 align="center">Hola, soy Melani Depetris 👋👩‍💻</h1>
 
 <h3 align="center">Soy una apasionada Fullstack, Argentina</h3>
+
+<h3 align="left">Contactame:</h3>
+
+- 📫 **depetrismelanie@gmail.com**
+
+ 🔗 Redes
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-depetris/)
 
 <h2 align="left"> 🛠 Languages and Tools: </h2>
 
@@ -44,6 +45,9 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melani-depetris&show_icons=true&locale=en&layout=compact" alt="melani-depetris" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melani-depetris&show_icons=true&locale=en" alt="melani-depetris" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melani-depetris&" alt="melani-depetris" /></p>
 
 <!--
 **Melani-Depetris/Melani-Depetris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
