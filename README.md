@@ -2,6 +2,10 @@
 
 <h3 align="center">Soy una apasionada Fullstack en constante desarrollo. Curse la carrera de Full Stack en Henry. </h3>
 
+- 🔭 Actualmente estoy trabajando en mi portafolio.  
+  
+- 🌱 Actualmente estoy aprendiendo e implementando Angular, Astro, TypeScript.
+  
 ## 🔗 Redes
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-depetris/)
