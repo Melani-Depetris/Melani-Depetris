@@ -2,10 +2,6 @@
 
 <h3 align="center">Soy una apasionada Fullstack, Argentina</h3>
 
-<h3 align="left">Contactame:</h3>
-
-- 📫 **depetrismelanie@gmail.com**
-
  🔗 Redes
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-depetris/)
 
@@ -48,6 +44,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melani-depetris&show_icons=true&locale=en&layout=compact" alt="melani-depetris" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melani-depetris&show_icons=true&locale=en" alt="melani-depetris" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melani-depetris&" alt="melani-depetris" /></p>
+
+##<h3 align="left">Contactame:</h3>
+
+- 📫 **depetrismelanie@gmail.com**
 
 <!--
 **Melani-Depetris/Melani-Depetris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
