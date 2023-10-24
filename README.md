@@ -13,7 +13,7 @@ Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarr
   ## **Contacto:**
 
 
-[![Correo electrónico](https://img.shields.io/badge/Correo-red?style=for-the-badge&logo=gmail)](mailto:depetrismelanie@gmail.com?Subject=Agenda%20De%20Entrevista%20Para:)
+[![Correo electrónico](https://img.shields.io/badge/Correo-white?style=for-the-badge&logo=gmail)](mailto:depetrismelanie@gmail.com?Subject=Agenda%20De%20Entrevista%20Para:)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-depetris/)
 
 <h2 align="left"> ⚙️ Lenguajes y Herramientas: </h2>
