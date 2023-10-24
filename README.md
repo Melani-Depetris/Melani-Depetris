@@ -16,7 +16,7 @@ Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarr
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-depetris/)
 
 ## **⚙️ Skills Tech**
-
+<br><br>
 **Frontend**
 <p align="left"> 
   
