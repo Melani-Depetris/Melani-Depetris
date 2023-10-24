@@ -10,7 +10,7 @@ Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarr
   
 - 🌱 También estoy aprendiendo e implementando Angular, Astro, TypeScript.
 
-## **Contacto:**
+## **💌 Contacto:**
 
 [![Correo electrónico](https://img.shields.io/badge/Correo-white?style=for-the-badge&logo=gmail)](mailto:depetrismelanie@gmail.com?Subject=Agenda%20De%20Entrevista%20Para:)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-depetris/)
@@ -51,7 +51,7 @@ Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarr
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-## **Gráficos**
+## **📊 Gráficos**
 <br><br>
 
 
