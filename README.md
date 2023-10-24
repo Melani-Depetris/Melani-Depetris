@@ -17,7 +17,6 @@ Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarr
 
 ## **⚙️ Skills Tech**
 <br><br>
-
 **Frontend**
 <p align="left"> 
   
