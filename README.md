@@ -16,7 +16,7 @@ Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarr
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-depetris/)
 
 ## **⚙️ Skills Tech**
-<br><br>
+
 **Frontend**
 <p align="left"> 
   
@@ -54,10 +54,11 @@ Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarr
 ## **Gráficos**
 <br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melani-depetris&theme=dar&show_icons=true&locale=en&layout=compact" alt="melani-depetris" /></p>
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melani-depetris&theme=dar&show_icons=true&locale=en&layout=compact" alt="melani-depetris" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melani-depetris&theme=dar&show_icons=true&locale=en" alt="melani-depetris" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melani-depetris&theme=dar" alt="melani-depetris" /></p>
 </td>
