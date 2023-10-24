@@ -10,15 +10,15 @@ Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarr
   
 - 🌱 También estoy aprendiendo e implementando Angular, Astro, TypeScript.
 
-  ## **Contacto:**
-
+## **Contacto:**
 
 [![Correo electrónico](https://img.shields.io/badge/Correo-white?style=for-the-badge&logo=gmail)](mailto:depetrismelanie@gmail.com?Subject=Agenda%20De%20Entrevista%20Para:)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-depetris/)
 
-<h2 align="left"> ⚙️ Lenguajes y Herramientas: </h2>
+## **⚙️ Skills Tech **
+<br><br>
 
-<h3 align="left">Frontend</h3>
+**Frontend**
 <p align="left"> 
   
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -37,7 +37,7 @@ Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarr
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Backend</h3>
+**Backend**
 <p align="left">
 </p>
 
@@ -52,7 +52,8 @@ Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarr
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
- **Gráficos**
+## **Gráficos**
+ <br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melani-depetris&theme=dar&show_icons=true&locale=en&layout=compact" alt="melani-depetris" /></p>
 <table align="center">
