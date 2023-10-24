@@ -52,8 +52,8 @@ Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarr
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-## **Gráficos**
- <br><br>
+## **Estadísticas**
+<br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melani-depetris&theme=dar&show_icons=true&locale=en&layout=compact" alt="melani-depetris" /></p>
 <table align="center">
