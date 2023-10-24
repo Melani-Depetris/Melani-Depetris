@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Melani Depetris 👋👩‍💻</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F75BB0&background=5153FF00&random=false&width=435&lines=Programadora+web+Full+Stack!+%F0%9F%92%95" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F77895&center=verdadero&vCenter=verdadero&repeat=verdadero&random=FALSO&width=435&lines=Full+Stack+Developer!+%F0%9F%92%95" alt="Typing SVG" /></a>
 
 <h3 align="center">Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarrollo de Front End, con conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks CSS. Me gusta trabajar organizada.Cursé la carrera de Full Stack en Henry. </h3>
 
