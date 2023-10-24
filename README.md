@@ -1,16 +1,20 @@
 <h1 align="center">Hola, soy Melani Depetris 👋👩‍💻</h1>
 
-<h3 align="center">Soy una apasionada Fullstack en constante desarrollo. Curse la carrera de Full Stack en Henry. </h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F75BB0&background=5153FF00&random=false&width=435&lines=Programadora+web+Full+Stack!+%F0%9F%92%95" alt="Typing SVG" /></a>
+
+<h3 align="center">Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarrollo de Front End, con conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks CSS. Me gusta trabajar organizada.Cursé la carrera de Full Stack en Henry. </h3>
 
 - 🔭 Actualmente estoy trabajando en mi portafolio.  
   
 - 🌱 Actualmente estoy aprendiendo e implementando Angular, Astro, TypeScript.
-  
-## 🔗 Redes
 
+  <h2 align="left">Contacto:</h2>
+
+📫 **depetrismelanie@gmail.com**
+[![Correo electrónico](https://img.shields.io/badge/Correo-Electr%C3%B3nico-red?style=for-the-badge&logo=gmail)](mailto:depetrismelanie@gmail.com?Subject=Agenda%20De%20Entrevista%20Para:)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melani-depetris/)
 
-<h2 align="left"> 🛠 Lenguajes y Herramientas: </h2>
+<h2 align="left"> ⚙️ Lenguajes y Herramientas: </h2>
 
 <h3 align="left">Frontend</h3>
 <p align="left"> 
@@ -46,13 +50,20 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melani-depetris&show_icons=true&locale=en&layout=compact" alt="melani-depetris" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melani-depetris&show_icons=true&locale=en" alt="melani-depetris" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melani-depetris&" alt="melani-depetris" /></p>
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Gráficos**
 
-<h2 align="left">Contactame:</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=melani-depetris&theme=dar&show_icons=true&locale=en&layout=compact" alt="melani-depetris" /></p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melani-depetris&theme=dar&show_icons=true&locale=en" alt="melani-depetris" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melani-depetris&theme=dar" alt="melani-depetris" /></p>
+</td>
 
-📫 **depetrismelanie@gmail.com**
+
+</tr>
+</table>
+
 
 <!--
 **Melani-Depetris/Melani-Depetris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
