@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F77895&center=true&vCenter=true&random=true&width=435&lines=Full+Stack+Developer!+%F0%9F%92%95" alt="Typing SVG" /></a>
 </p>
 
-Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarrollo de Front End, con conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks CSS. Me gusta trabajar organizada.Cursé la carrera de Full Stack en Henry. 
+Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarrollo de Front End, con conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks CSS. Me gusta trabajar organizada. Cursé la carrera de Full Stack en Henry. 
 
 - 🔭 Actualmente estoy trabajando en mi portafolio.  
   
