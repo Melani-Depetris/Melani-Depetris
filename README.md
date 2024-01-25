@@ -8,7 +8,7 @@ Soy una apasionada Fullstack en constante desarrollo. Tome experiencia en desarr
 
 - 🔭 Actualmente estoy trabajando en mi portafolio.  
   
-- 🌱 También estoy aprendiendo e implementando Angular, Astro, TypeScript.
+- 🌱 También estoy aprendiendo e implementando Next.js, Astro, AWS.
 
 <br><br>
 ## **💌 Contacto:**
